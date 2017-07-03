@@ -1,11 +1,7 @@
 test
 test
 
-<<<<<<< HEAD
-te himeno
-=======
 te endo
->>>>>>> b4a3e13b56f7b7981fc5cd7fbbe3f11ffbfaa691
 
 test
 test
